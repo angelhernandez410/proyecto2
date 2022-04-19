@@ -1,0 +1,24 @@
+.tabla{
+    margin-top: 4%;
+  	margin-right: 2%;
+	  margin-left: 2%;
+	  text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    height: 60px;
+    padding: 8px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.tabla_datos {
+  border-collapse: collapse;
+  width: 100%;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+  padding: 100px;
+}
+
+th, td {
+    padding: 13px;
+  }
